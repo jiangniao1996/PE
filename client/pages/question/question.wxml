@@ -1,0 +1,8 @@
+<view>
+
+<textarea>{{textdata}}</textarea>
+<button calss='button' name="nextquestion" bindtap="nextquestion">是</button>
+<button calss='button' name="nextquestion" bindtap="nextquestion">否</button>
+<button class='button' name="finishanswer" bindtap="finishanswer">结束答题</button>
+
+</view>
